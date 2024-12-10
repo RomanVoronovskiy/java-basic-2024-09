@@ -1,6 +1,6 @@
-package ru.otus.java.basic.lesson20.server;
+package ru.otus.java.basic.lesson21.server;
 
-import ru.otus.java.basic.lesson20.util.ClientHandler;
+import ru.otus.java.basic.lesson21.util.ClientHandler;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

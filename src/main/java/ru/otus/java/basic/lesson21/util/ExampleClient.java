@@ -1,4 +1,4 @@
-package ru.otus.java.basic.lesson20.util;
+package ru.otus.java.basic.lesson21.util;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
